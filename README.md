@@ -16,6 +16,7 @@
 - [PVIT Weights](#pvit-weights)
 - [Data Generation](#data-generation)
 - [Demo](#Demo)
+- [Data](#Data)
 - [Train](#Train)
 
 ## Install
