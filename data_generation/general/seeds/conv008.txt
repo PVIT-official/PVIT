@@ -1,0 +1,18 @@
+===
+Question:
+What precautions is the young girl in <Region>[0.543, 0.062, 0.774, 0.903]</Region> taking while playing?
+===
+Answer:
+The young girl is wearing a helmet, ensuring her safety as she enjoys riding a skateboard.
+===
+Question:
+What safety equipment is the young girl in <Region>[0.543, 0.062, 0.774, 0.903]</Region> wearing while riding her skateboard?
+===
+Answer:
+The young girl is wearing a helmet while riding her skateboard to ensure her safety.
+===
+Question:
+Who does the thing in <Region>[0.443, 0.316, 0.516, 0.357]</Region> belong to?
+===
+Answer:
+The handbag may belong to one of the youngsters at the schoolyard.

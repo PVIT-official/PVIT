@@ -1,0 +1,23 @@
+Two very big elephants standing together in an enclosure.
+two elephants standing next to each other on a dirt ground next to trees.
+Two elephants in a zoo grazing on leaves.
+People stand by watching a couple elephants taking a nice walk together
+two elephants on a dirt ground near tres
+
+The image portrays two very large elephants standing next to each other on a dirt ground near some trees. The elephants appear to be grazing on leaves within an enclosure, possibly in a zoo. 
+
+A group of people can be seen standing by and observing the elephants, enjoying their walk together. There are at least five individuals of various heights, all well-positioned to appreciate the gentle giants' interaction with their surroundings.
+
+a group: <Region>[0.824, 0.611, 0.962, 0.724]</Region>
+a group: <Region>[0.829, 0.615, 0.886, 0.714]</Region>
+a group: <Region>[0.845, 0.616, 0.886, 0.712]</Region>
+the elephants: <Region>[0.166, 0.449, 0.734, 0.871]</Region>
+leaves: <Region>[0.507, 0.786, 0.551, 0.845]</Region>
+the elephants: <Region>[0.442, 0.47, 0.732, 0.838]</Region>
+people: <Region>[0.846, 0.616, 0.886, 0.712]</Region>
+the elephants: <Region>[0.071, 0.512, 0.188, 0.734]</Region>
+people: <Region>[0.824, 0.612, 0.962, 0.723]</Region>
+the elephants elephants: <Region>[0.172, 0.453, 0.545, 0.871]</Region>
+the elephants: <Region>[0.073, 0.447, 0.738, 0.873]</Region>
+individuals: <Region>[0.824, 0.611, 0.963, 0.723]</Region>
+the elephants: <Region>[0.36, 0.47, 0.732, 0.838]</Region>

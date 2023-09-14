@@ -1,0 +1,18 @@
+===
+Question:
+What is the color of the train located at the platform in <Region>[0.004, 0.009, 0.995, 0.994]</Region>?
+===
+Answer:
+The color of the train located at the platform in this region is yellow.
+===
+Question:
+What are the people in the scene in <Region>[0.002, 0.442, 0.17, 0.997]</Region> carrying with them?
+===
+Answer:
+The people in this region seem to be carrying handbags.
+===
+Question:
+Is the train in <Region>[0.052, 0.492, 0.17, 0.619]</Region> at the right of the image?
+===
+Answer:
+No, it's at the left of the image.

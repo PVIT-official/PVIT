@@ -1,0 +1,39 @@
+A sandwich and a glass of wine at an outside eatery.
+An outdoor dining patio with a sandwich and glass of wine. 
+a sandwich on a plate next to a glass of wine on a table
+A close up of a sandwhich consisting of a roll and smoked Salmon
+There is a glass of vine and a fish burger on a table on a street corner restaurant.
+
+The image shows an outdoor dining patio in a street corner restaurant where a delicious sandwich with smoked salmon is placed on a table, accompanied by a glass of wine. The patio is adorned with several chairs, some of which are located around the dining table that holds the sandwich and wine glass. 
+
+In the background, there are a few cars, including one larger car visible near the middle of the scene and two smaller cars on either side. To the left side, there's one person seated at the table, while another person can be observed standing further back on the right side. There are also a handbag and a backpack beside one of the chairs, adding to the casual ambiance of the setting.
+
+a glass: <Region>[0.638, 0.082, 0.867, 0.801]</Region>
+a table: <Region>[0.002, 0.519, 0.997, 0.996]</Region>
+a delicious sandwich the sandwich: <Region>[0.168, 0.562, 0.503, 0.839]</Region>
+a few cars: <Region>[0.392, 0.218, 0.62, 0.34]</Region>
+wine: <Region>[0.638, 0.082, 0.867, 0.801]</Region>
+several chairs: <Region>[0.522, 0.287, 0.651, 0.535]</Region>
+another person: <Region>[0.838, 0.088, 0.923, 0.274]</Region>
+smoked salmon: <Region>[0.176, 0.685, 0.491, 0.838]</Region>
+several chairs: <Region>[0.001, 0.309, 0.083, 0.686]</Region>
+several chairs: <Region>[0.181, 0.288, 0.55, 0.599]</Region>
+a handbag: <Region>[0.262, 0.178, 0.38, 0.315]</Region>
+several chairs: <Region>[0.402, 0.289, 0.553, 0.527]</Region>
+a backpack: <Region>[0.369, 0.221, 0.418, 0.349]</Region>
+two smaller cars: <Region>[0.598, 0.247, 0.65, 0.298]</Region>
+the dining table table: <Region>[0.003, 0.522, 0.997, 0.996]</Region>
+several chairs: <Region>[0.802, 0.26, 0.998, 0.558]</Region>
+several: <Region>[0.536, 0.262, 0.996, 0.553]</Region>
+two smaller cars: <Region>[0.393, 0.218, 0.622, 0.341]</Region>
+several chairs: <Region>[0.826, 0.26, 0.997, 0.558]</Region>
+person: <Region>[0.287, 0.129, 0.381, 0.301]</Region>
+another: <Region>[0.355, 0.164, 0.417, 0.36]</Region>
+one person: <Region>[0.281, 0.129, 0.415, 0.362]</Region>
+smoked salmon: <Region>[0.169, 0.562, 0.503, 0.839]</Region>
+several chairs: <Region>[0.181, 0.288, 0.459, 0.599]</Region>
+smaller cars: <Region>[0.387, 0.216, 0.624, 0.344]</Region>
+a few cars smaller cars: <Region>[0.393, 0.218, 0.619, 0.341]</Region>
+several chairs: <Region>[0.618, 0.261, 0.997, 0.556]</Region>
+the patio: <Region>[0.003, 0.257, 0.995, 0.685]</Region>
+several chairs: <Region>[0.522, 0.287, 0.719, 0.54]</Region>

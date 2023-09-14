@@ -1,0 +1,29 @@
+A woman sitting at a table while eating a donut.
+The woman sitting next to a man is biting a donut.
+a smiling woman biting into a sugar donut
+a woman eats a doughnut as a man celebrates next to her 
+A woman with glasses biting into a doughnut.
+
+The image shows a woman with glasses sitting at a dining table, biting into a delicious donut with a smile on her face. Another man is sitting next to her, celebrating or enjoying the moment. They are surrounded by several chairs and cups placed on the table.
+
+In the background, there's another dining table with a few more cups on it as well as another person who appears to be engaged in a separate activity. The scene is lively, capturing a pleasant social gathering with people enjoying food and each other's company.
+
+a delicious donut: <Region>[0.35, 0.386, 0.581, 0.473]</Region>
+a smile: <Region>[0.507, 0.353, 0.617, 0.473]</Region>
+glasses: <Region>[0.486, 0.207, 0.776, 0.3]</Region>
+cups few more cups: <Region>[0.002, 0.732, 0.125, 0.889]</Region>
+cups few more cups: <Region>[0.157, 0.834, 0.346, 0.998]</Region>
+several chairs: <Region>[0.012, 0.55, 0.186, 0.749]</Region>
+another man another person: <Region>[0.008, 0.004, 0.604, 0.924]</Region>
+her face: <Region>[0.462, 0.188, 0.881, 0.546]</Region>
+chairs: <Region>[0.51, 0.713, 0.772, 0.998]</Region>
+a dining table table: <Region>[0.003, 0.794, 0.593, 0.998]</Region>
+food: <Region>[0.35, 0.386, 0.581, 0.472]</Region>
+cups: <Region>[0.002, 0.964, 0.097, 0.999]</Region>
+person: <Region>[0.002, 0.267, 0.132, 0.561]</Region>
+table: <Region>[0.003, 0.797, 0.593, 0.998]</Region>
+chairs: <Region>[0.509, 0.531, 0.77, 0.997]</Region>
+her face: <Region>[0.455, 0.011, 0.988, 0.549]</Region>
+her face: <Region>[0.464, 0.098, 0.88, 0.545]</Region>
+glasses: <Region>[0.484, 0.203, 0.887, 0.3]</Region>
+cups: <Region>[0.003, 0.731, 0.348, 0.997]</Region>

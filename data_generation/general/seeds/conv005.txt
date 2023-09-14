@@ -1,0 +1,18 @@
+===
+Question:
+What is the most visible object in the <Region>[0.792, 0.815, 0.963, 0.997]</Region>?
+===
+Answer:
+The most visible object in this region is a dog, which appears to be a family pet.
+===
+Question:
+What type of objects are placed near the <Region>[0.703, 0.307, 0.73, 0.379]</Region>?
+===
+Answer:
+There are several bottles near the setting that possibly contain beverages to accompany the celebration.
+===
+Question:
+Who or what is sitting at the table in <Region>[0.172, 0.45, 0.795, 0.996]</Region>?
+===
+Answer:
+There are four people seated at the dining table in the region.

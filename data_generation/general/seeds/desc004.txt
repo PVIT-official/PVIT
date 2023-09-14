@@ -1,0 +1,30 @@
+A train with googly eyes sitting near a platform.
+Train with bright striped rear with attendants and onlookers on platform.
+a yellow and black stripped train next to sidewalk
+A train engine carrying carts parked at a station.
+there is a train that is stopped at the station
+
+The image features a train with a yellow and black striped rear parked at a platform. This train engine carries carts and appears to have endearing googly eyes applied to its exterior. Multiple people are present on the platform, including attendants and onlookers, with some standing closer to the train and others further away near the sidewalk. A handbag can be seen on the platform, possibly belonging to one of the passengers.
+
+a handbag: <Region>[0.143, 0.584, 0.204, 0.73]</Region>
+multiple people: <Region>[0.001, 0.335, 0.06, 0.647]</Region>
+multiple people: <Region>[0.066, 0.288, 0.19, 0.818]</Region>
+multiple people: <Region>[0.194, 0.336, 0.296, 0.794]</Region>
+attendants: <Region>[0.066, 0.288, 0.19, 0.818]</Region>
+multiple people: <Region>[0.064, 0.285, 0.296, 0.819]</Region>
+the platform: <Region>[0.003, 0.457, 0.428, 0.996]</Region>
+onlookers: <Region>[0.001, 0.335, 0.059, 0.647]</Region>
+attendants: <Region>[0.195, 0.336, 0.296, 0.793]</Region>
+the sidewalk: <Region>[0.003, 0.456, 0.427, 0.996]</Region>
+this train engine: <Region>[0.342, 0.152, 0.726, 0.938]</Region>
+onlookers: <Region>[0.066, 0.288, 0.19, 0.818]</Region>
+this train engine: <Region>[0.189, 0.148, 0.729, 0.942]</Region>
+eyes: <Region>[0.523, 0.2, 0.556, 0.251]</Region>
+eyes: <Region>[0.391, 0.199, 0.67, 0.346]</Region>
+onlo: <Region>[0.067, 0.288, 0.19, 0.818]</Region>
+sidewalk: <Region>[0.003, 0.454, 0.427, 0.997]</Region>
+the train: <Region>[0.172, 0.149, 0.728, 0.943]</Region>
+onlookers: <Region>[0.195, 0.337, 0.296, 0.793]</Region>
+platform: <Region>[0.003, 0.457, 0.427, 0.997]</Region>
+attendants: <Region>[0.002, 0.335, 0.06, 0.647]</Region>
+multiple people: <Region>[0.004, 0.282, 0.299, 0.821]</Region>

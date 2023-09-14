@@ -1,0 +1,34 @@
+empty drinking glass: [0.002, 0.117, 0.094, 0.494]
+pizza with lots of cheese on top: [0.372, 0.545, 0.544, 0.793]
+Wine on the table.: [0.054, 0.314, 0.36, 0.979]
+
+<pizza: [0.36, 0.419, 0.826, 0.82]> <sliced>
+<wine bottle: [0.104, 0.024, 0.298, 0.973]> <black, dark, dark green>
+<plate: [0.222, 0.213, 0.512, 0.425]> <blue>
+<glass: [0.0, 0.084, 0.072, 0.467]> <clear, empty>
+<plate: [0.83, 0.228, 1.0, 0.413]> <blue>
+
+<pan: [0.35, 0.389, 0.844, 0.865]> <under> <pizza: [0.36, 0.419, 0.826, 0.82]>
+<wine bottle: [0.104, 0.024, 0.298, 0.973]> <and> <cork: [0.01, 0.838, 0.07, 0.979]>
+<pizza: [0.36, 0.419, 0.826, 0.82]> <topped with> <cheese: [0.362, 0.422, 0.828, 0.814]>
+<cork: [0.01, 0.838, 0.07, 0.979]> <for> <wine bottle: [0.104, 0.024, 0.298, 0.973]>
+
+Question:
+What color is the object in <Region>[0.222, 0.213, 0.512, 0.425]</Region> in the image?
+===
+Question:
+Please indicate another object that is most related to the object in the <Region>[0.104, 0.024, 0.298, 0.973]</Region> in the image.
+===
+Question:
+If you are a diner, describe your meal in as much detail as possible. The content described should involves objects in the following three regions: <Region>[0.222, 0.213, 0.512, 0.425]</Region>, <Region>[0.104, 0.024, 0.298, 0.973]</Region> and <Region>[0.36, 0.419, 0.826, 0.82]</Region>.
+===
+Question:
+Can I drink the liquid directly from the object in <Region>[0.0, 0.084, 0.072, 0.467]</Region> now, and why?
+===
+Question:
+Can you find objects of the same category as the object in <Region>[0.206, 0.0, 0.53, 0.24]</Region> in this image?
+===
+Question:
+Could you introduce the object in <Region>[0.742, 0.269, 0.852, 0.44]</Region> to me, such as its material, color, and purpose?
+
+Do NOT generate answers including <Region>[x1, y1, x2, y2]</Region>.

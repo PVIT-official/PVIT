@@ -1,0 +1,8 @@
+Question:
+What is the relationship between the object in <Region>[0.025, 0.078, 0.997, 0.996]</Region> and the object in <Region>[0.533, 0.008, 0.97, 0.924]</Region>?
+===
+Question:
+Could you provide a detailed description of the object in <Region>[0.025, 0.078, 0.997, 0.996]</Region>?
+===
+Question:
+If you are the teddy bear, please describe what you want to do with the object in <Region>[0.533, 0.008, 0.97, 0.924]</Region>.

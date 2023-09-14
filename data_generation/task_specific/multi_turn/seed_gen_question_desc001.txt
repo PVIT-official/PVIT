@@ -1,0 +1,19 @@
+the scarf is plaid: [0.326, 0.47, 0.577, 0.572]
+bear has plaid pattern on ribbon: [0.309, 0.412, 0.605, 0.622]
+a teddy bear standing next to a controller: [0.036, 0.08, 0.997, 0.978]
+the bear is brown fur: [0.05, 0.092, 0.975, 0.998]
+the bear's nose is black: [0.345, 0.314, 0.428, 0.376]
+The bear is on a white object: [0.047, 0.834, 0.727, 0.994]
+Beige teddy bear holding game controller. : [0.03, 0.04, 0.967, 0.98]
+
+<wii: [0.533, 0.008, 0.97, 0.924]> <black, gray>
+<bear: [0.025, 0.078, 0.997, 0.996]> <brown, standing, beige>
+<scarf: [0.282, 0.416, 0.591, 0.572]> <brown, yellow, plaid>
+<nose: [0.345, 0.316, 0.425, 0.374]> <brown, black, dark brown>
+<object: [0.006, 0.776, 1.0, 1.0]> <white>
+<fur: [0.022, 0.074, 0.994, 0.988]> <brown>
+
+<bear: [0.025, 0.078, 0.997, 0.996]> <holding> <wii: [0.533, 0.008, 0.97, 0.924]>
+<bear: [0.025, 0.078, 0.997, 0.996]> <WEARING> <scarf: [0.282, 0.416, 0.591, 0.572]>
+<bear: [0.025, 0.078, 0.997, 0.996]> <on top of> <object: [0.006, 0.776, 1.0, 1.0]>
+<wii: [0.533, 0.008, 0.97, 0.924]> <in front of> <bear: [0.025, 0.078, 0.997, 0.996]>

@@ -1,0 +1,22 @@
+A laptop computer that has a small keyboard for it.
+A home office desk with a computer, cordless keyboard, mouse and cell phone.
+A desk with a laptop and a keyboard and mouse.
+A wireless Apple keyboard and mouse sit near an iPhone and an Apple laptop.
+there is a coke glass next to a computer
+
+The image displays a tidy home office desk setting with a laptop placed in the center. On the desk, there is a cordless keyboard in front of the laptop and a wireless mouse situated slightly to the right of it. A cell phone can be seen on the left side of the desk, close to the laptop.
+
+Near the top left corner, there is a coke glass adding a personal touch to the workspace. A collection of books is scattered around the scene in various positions and stacks, possibly serving as reference material or leisure reading for the desk's occupant.
+
+a coke glass: <Region>[0.064, 0.345, 0.202, 0.599]</Region>
+a cordless keyboard: <Region>[0.258, 0.615, 0.631, 0.832]</Region>
+a cell phone: <Region>[0.76, 0.459, 0.85, 0.581]</Region>
+wireless mouse: <Region>[0.805, 0.644, 0.91, 0.793]</Region>
+a collection: <Region>[0.838, 0.003, 0.997, 0.465]</Region>
+a collection: <Region>[0.002, 0.002, 0.151, 0.462]</Region>
+laptop laptop laptop: <Region>[0.28, 0.212, 0.703, 0.54]</Region>
+collection: <Region>[0.002, 0.002, 0.193, 0.465]</Region>
+books: <Region>[0.839, 0.002, 0.998, 0.464]</Region>
+books: <Region>[0.001, 0.002, 0.151, 0.461]</Region>
+a collection: <Region>[0.004, 0.003, 0.996, 0.492]</Region>
+stacks: <Region>[0.787, 0.067, 0.87, 0.35]</Region>

@@ -1,0 +1,26 @@
+A black and white photograph of two men on side of the road.
+Two men by a church and a parking lot.
+an old black and white photo of two people
+Two men standing near each other by some parked cars
+Two men outside near a car and moving a cart of some sort.
+
+This is an old black and white photograph featuring two men standing near each other on the side of the road. They are situated close to a parking lot where several parked cars can be seen. The men appear to be outside, possibly near a church or other local establishment.
+
+One of the men seems to be moving a cart, while the other man is observing the process. The parking lot contains at least four cars, with one parked further down the road. Additionally, there are two clocks and a parking meter in the scene, which gives an indication of a public or commercial setting.
+
+men the men the other man: <Region>[0.605, 0.271, 0.951, 0.865]</Region>
+the parking lot: <Region>[0.006, 0.469, 0.995, 0.837]</Region>
+one of the men the other man: <Region>[0.322, 0.289, 0.577, 0.827]</Region>
+clocks: <Region>[0.822, 0.246, 0.865, 0.285]</Region>
+a parking meter: <Region>[0.232, 0.446, 0.292, 0.548]</Region>
+clocks: <Region>[0.816, 0.243, 0.93, 0.29]</Region>
+a cart: <Region>[0.219, 0.52, 0.671, 0.906]</Region>
+a cart: <Region>[0.22, 0.467, 0.676, 0.906]</Region>
+men the men: <Region>[0.326, 0.268, 0.951, 0.864]</Region>
+clocks: <Region>[0.891, 0.246, 0.927, 0.286]</Region>
+men the men: <Region>[0.238, 0.266, 0.952, 0.903]</Region>
+cars cars: <Region>[0.002, 0.526, 0.186, 0.83]</Region>
+a parking meter: <Region>[0.225, 0.446, 0.295, 0.829]</Region>
+parked cars cars: <Region>[0.528, 0.459, 0.997, 0.747]</Region>
+a cart: <Region>[0.223, 0.522, 0.545, 0.907]</Region>
+the parking lot: <Region>[0.008, 0.468, 0.995, 0.74]</Region>

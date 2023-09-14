@@ -1,0 +1,43 @@
+a family is sitting down at a table to have cake
+Group around a table waiting for a birthday cake to be served.
+adults at dining room table with birthday cake.
+Four persons sitting on dining table for cake and drinks. 
+A group of people are gathered around a table with cake on it. 
+
+The image features a group of people, likely a family, gathered around a dining table, on which a birthday cake is placed. There are four people seated at the table, and various cups, forks, knives, and a bowl are also positioned on the table. Notably, there are several bottles near the setting, possibly containing beverages to accompany the celebration.
+
+In addition to the family, there is a dog present in the scene, possibly a family pet. The room is decoratively adorned with two potted plants, one in the left corner and the other near the center. Surrounding the table, multiple chairs can be spotted, some of which are occupied by individuals. A clock hangs in the background, marking the time during the special occasion.
+
+a clock hangs: <Region>[0.56, 0.139, 0.608, 0.213]</Region>
+a group four people: <Region>[0.68, 0.311, 0.985, 0.992]</Region>
+a birthday cake present: <Region>[0.363, 0.426, 0.459, 0.539]</Region>
+a group people four people: <Region>[0.013, 0.263, 0.319, 0.903]</Region>
+a group people four people: <Region>[0.514, 0.234, 0.741, 0.673]</Region>
+various cups: <Region>[0.494, 0.472, 0.535, 0.575]</Region>
+forks: <Region>[0.311, 0.84, 0.343, 0.96]</Region>
+a dining table the table the table the table: <Region>[0.172, 0.45, 0.795, 0.996]</Region>
+various cups: <Region>[0.521, 0.542, 0.569, 0.661]</Region>
+a bowl: <Region>[0.298, 0.472, 0.351, 0.521]</Region>
+various cups: <Region>[0.31, 0.598, 0.362, 0.737]</Region>
+a group people four people: <Region>[0.328, 0.179, 0.487, 0.474]</Region>
+a dog present: <Region>[0.792, 0.815, 0.963, 0.997]</Region>
+various cups: <Region>[0.328, 0.56, 0.373, 0.68]</Region>
+various cups: <Region>[0.48, 0.604, 0.514, 0.682]</Region>
+potted plants: <Region>[0.184, 0.003, 0.574, 0.375]</Region>
+potted plants: <Region>[0.182, 0.004, 0.384, 0.335]</Region>
+multiple chairs: <Region>[0.002, 0.633, 0.184, 0.996]</Region>
+various cups: <Region>[0.469, 0.388, 0.505, 0.493]</Region>
+multiple chairs: <Region>[0.002, 0.513, 0.184, 0.997]</Region>
+several bottles: <Region>[0.703, 0.307, 0.73, 0.379]</Region>
+multiple chairs: <Region>[0.723, 0.44, 0.77, 0.581]</Region>
+various cups: <Region>[0.311, 0.599, 0.362, 0.737]</Region>
+knives: <Region>[0.245, 0.572, 0.323, 0.606]</Region>
+forks knives: <Region>[0.594, 0.713, 0.684, 0.749]</Region>
+potted plants: <Region>[0.387, 0.004, 0.569, 0.39]</Region>
+various cups: <Region>[0.521, 0.542, 0.569, 0.66]</Region>
+several bottles: <Region>[0.422, 0.425, 0.444, 0.478]</Region>
+the table the table: <Region>[0.173, 0.451, 0.794, 0.997]</Region>
+multiple chairs: <Region>[0.787, 0.643, 0.929, 0.936]</Region>
+various cups: <Region>[0.494, 0.472, 0.535, 0.575]</Region>
+various cups: <Region>[0.48, 0.604, 0.514, 0.682]</Region>
+multiple chairs: <Region>[0.002, 0.346, 0.185, 0.997]</Region>

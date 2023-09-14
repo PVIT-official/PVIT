@@ -1,0 +1,8 @@
+Question:
+What color is the object in <Region>[0.222, 0.213, 0.512, 0.425]</Region> in the image?
+===
+Question:
+Please indicate another object that is most related to the object in the <Region>[0.104, 0.024, 0.298, 0.973]</Region> in the image.
+===
+Question:
+If you are a diner, describe your meal in as much detail as possible. The content described should involves objects in the following three regions: <Region>[0.222, 0.213, 0.512, 0.425]</Region>, <Region>[0.104, 0.024, 0.298, 0.973]</Region> and <Region>[0.36, 0.419, 0.826, 0.82]</Region>.

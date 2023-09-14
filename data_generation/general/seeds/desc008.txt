@@ -1,0 +1,21 @@
+A little kid that is on a skateboard.
+Black and white photograph of a happy girl skateboarding
+A black and white photo of a little girl on a skate board.
+A young girl wearing a helmet skates on a skateboard.
+A young girl riding a skateboard across school yard.
+
+The image captures a schoolyard scene with a young girl riding a skateboard joyfully, dominating the center of the image. She is wearing a helmet, ensuring her safety as she skates. There are multiple people in the background, giving life to the surroundings.
+
+Two bicycles are stationed in the area, with one located near the right side of the scene and another closer to the middle. A backpack can also be seen in the middle of the scene, possibly belonging to one of the youngsters at the schoolyard.
+
+a young girl: <Region>[0.543, 0.062, 0.774, 0.903]</Region>
+a skateboard: <Region>[0.461, 0.797, 0.851, 0.964]</Region>
+two bicycles: <Region>[0.859, 0.173, 0.977, 0.272]</Region>
+a backpack: <Region>[0.443, 0.316, 0.516, 0.357]</Region>
+two bicycles: <Region>[0.373, 0.195, 0.487, 0.286]</Region>
+a helmet: <Region>[0.575, 0.063, 0.733, 0.169]</Region>
+multiple people: <Region>[0.165, 0.097, 0.485, 0.314]</Region>
+multiple people: <Region>[0.164, 0.093, 0.488, 0.366]</Region>
+one: <Region>[0.311, 0.123, 0.396, 0.37]</Region>
+people: <Region>[0.166, 0.095, 0.399, 0.325]</Region>
+she: <Region>[0.57, 0.061, 0.736, 0.232]</Region>

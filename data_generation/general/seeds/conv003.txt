@@ -1,0 +1,18 @@
+===
+Question:
+What objects are placed on the coffee table in <Region>[0.234, 0.784, 0.575, 0.985]</Region>?
+===
+Answer:
+The coffee table is surrounded by a few books, remotes, and a laptop.
+===
+Question:
+What function does the object in <Region>[0.456, 0.427, 0.532, 0.482]</Region> serve?
+===
+Answer:
+The object is a clock hanging on the wall, adding a functional decor piece to the living room.
+===
+Question:
+Please write down the color of the object in <Region>[0.004, 0.655, 0.41, 0.992]</Region>.
+===
+Answer:
+The couch is black.

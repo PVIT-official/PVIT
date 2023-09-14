@@ -1,0 +1,21 @@
+A living room filled with furniture and windows covered in curtain.
+A living room with a couch, coffee table and two large windows with white curtains.
+a living room with white curtains and a black couch and table
+This is a living room with white curtains.
+A living room with a couch, coffee table and two windows.
+
+The image depicts a cozy living room filled with furniture and two large windows draped with white curtains, allowing plenty of natural light to brighten the space. A black couch is located at one end of the room, providing a comfortable seating area for relaxation. A coffee table is situated in the middle of the room, surrounded by a few books, remotes, and a laptop. 
+
+A noticeable feature of the living room is a clock hanging on the wall, adding a functional decor piece to the room. The combination of furnishings, books, and electronics creates a welcoming atmosphere for both relaxation and entertainment.
+
+a coffee table: <Region>[0.234, 0.784, 0.575, 0.985]</Region>
+a clock: <Region>[0.456, 0.427, 0.532, 0.482]</Region>
+two large windows white curtains: <Region>[0.028, 0.245, 0.384, 0.662]</Region>
+a black couch: <Region>[0.004, 0.655, 0.41, 0.992]</Region>
+few books: <Region>[0.274, 0.728, 0.367, 0.764]</Region>
+a black couch: <Region>[0.003, 0.655, 0.206, 0.994]</Region>
+books: <Region>[0.346, 0.844, 0.444, 0.878]</Region>
+large windows white curtains: <Region>[0.589, 0.232, 0.887, 0.627]</Region>
+white curtains: <Region>[0.589, 0.231, 0.888, 0.747]</Region>
+books: <Region>[0.237, 0.842, 0.337, 0.878]</Region>
+remotes: <Region>[0.342, 0.828, 0.423, 0.849]</Region>

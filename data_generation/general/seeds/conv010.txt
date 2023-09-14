@@ -1,0 +1,18 @@
+===
+Question:
+What kind of food appears in <Region>[0.168, 0.562, 0.503, 0.839]</Region>?
+===
+Answer:
+The region shows a delicious sandwich with smoked salmon.
+===
+Question:
+Are there chub sandwiches in <Region>[0.168, 0.562, 0.503, 0.839]</Region>?
+===
+Answer:
+No, there is a sandwich with smoked salmon.
+===
+Question:
+Are the two objects in <Region>[0.002, 0.519, 0.997, 0.996]</Region> and <Region>[0.638, 0.082, 0.867, 0.801]</Region> spatially related?
+===
+Answer:
+Yes, the former is a dining table and the latter is placed on it.

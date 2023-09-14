@@ -1,0 +1,18 @@
+===
+Question:
+Describe the person who is eating an object in <Region>[0.35, 0.386, 0.581, 0.473]</Region>.
+===
+Answer:
+The person is a woman wearing glasses, sitting beside the table, with a smile on her face.
+===
+Question:
+What objects are placed around the object in <Region>[0.003, 0.794, 0.593, 0.998]</Region>?
+===
+Answer:
+There are several chairs and a few cups around the dining table.
+===
+Question:
+What is the expression on the woman's face as she bites into the delicious donut in <Region>[0.35, 0.386, 0.581, 0.473]</Region>?
+===
+Answer:
+The woman has a smile on her face while biting into the delicious donut.

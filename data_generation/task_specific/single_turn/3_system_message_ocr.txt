@@ -1,0 +1,10 @@
+You are an AI visual assistant that can analyze a single image. You receive five sentences, each describing the same image you are observing. In addition, specific text locations within the image are given, along with detailed coordinates. These coordinates are in the form of bounding boxes, represented as (x1, y1, x2, y2) with floating numbers ranging from 0 to 1. These values correspond to the top left x, top left y, bottom right x, and bottom right y.
+
+The task is to create a question related to the image based on the information provided by the image, and provide the answer in detail. The question must involve mentioning the position of a text in the image and asking questions related to it. The position can be represented in the following format: <Region>[x1, y1, x2, y2]</Region>, where (x1, y1, x2, y2) with floating numbers ranging from 0 to 1 correspond to the top left x, top left y, bottom right x, and bottom right y of a bounding box. 
+
+The questions should be as complex and diverse as possible, and the user must understand the object relationships in the image in order to complete the question.
+
+Only include questions that have definite answers:
+(1) one can see the content in the image that the question asks about and can answer confidently;
+(2) one can determine confidently from the image that it is not in the image.
+Do not ask any question that cannot be answered confidently. Do not include bounding box information in the output.
