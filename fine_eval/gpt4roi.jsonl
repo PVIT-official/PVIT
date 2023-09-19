@@ -1,0 +1,130 @@
+{"image": "0000.jpg", "instruction": "what are people doing in <Region><L204><L469><L810><L960></Region>?", "output": "they are taking part in a boat race"}
+{"image": "0000.jpg", "instruction": "What risks might they encounter?", "output": "there are many boats racing across the water"}
+{"image": "0001.jpg", "instruction": "What does the person in <Region><L470><L262><L571><L894></Region> is doing?", "output": "The person in person at region1 is swimming."}
+{"image": "0001.jpg", "instruction": "For the person at <Region><L470><L262><L571><L894></Region> and <Region><L32><L351><L204><L958></Region>, who is more likely to win?", "output": "The person in person at region1 is more likely to win."}
+{"image": "0002.jpg", "instruction": "what are people doing in <Region><L98><L132><L842><L708></Region>?", "output": "they are swimming in sports competition"}
+{"image": "0002.jpg", "instruction": "please appreciate their performance.", "output": "they are wearing swimsuits and swim caps"}
+{"image": "0003.jpg", "instruction": "what is the person in <Region><L248><L497><L347><L956></Region> doing?", "output": "the person in bicycle at region1 is leading the way for the group of bicyclists"}
+{"image": "0003.jpg", "instruction": "what is the person in <Region><L470><L452><L511><L628></Region> doing?", "output": "person in a bicycle"}
+{"image": "0003.jpg", "instruction": "who is faster comparing with the person in <Region><L248><L497><L347><L956></Region> and the person in <Region><L470><L452><L511><L628></Region>?", "output": "the person in bicycle at region1 is faster than the person in bicycle at region2"}
+{"image": "0004.jpg", "instruction": "Describe the color of the glove in <Region><L407><L71><L835><L392></Region>.", "output": "the glove is blue"}
+{"image": "0004.jpg", "instruction": "Why the person is wearing a glove?", "output": "person at region1 is wearing a glove because they are preparing food."}
+{"image": "0005.jpg", "instruction": "what is the occupation of the person in <Region><L107><L27><L847><L873></Region>?", "output": "person at region1 is a astronaut"}
+{"image": "0005.jpg", "instruction": "Where is this person at the moment?", "output": "person at region1 is in outer space"}
+{"image": "0006.jpg", "instruction": "What are the people doing in <Region><L441><L355><L895><L850></Region>?", "output": "The people in diningtable at region1 are playing chess."}
+{"image": "0006.jpg", "instruction": "in <Region><L205><L545><L532><L994></Region>, what it might mean for a man  to point his finger at a position on the board.", "output": "When a person in diningtable at region1 makes a move in the game of chess, they use their hand to point to the position on the board where they want the piece to go."}
+{"image": "0007.jpg", "instruction": "Identify what is in <Region><L251><L204><L727><L992></Region>?", "output": "There is a sunflower in bird at region1."}
+{"image": "0007.jpg", "instruction": "please infer who is more likey to help the sunflower to wear sunglasses.", "output": "A sunflower would be more likely to wear sunglasses than a human."}
+{"image": "0008.jpg", "instruction": "What is the person in <Region><L298><L72><L644><L943></Region> doing?", "output": "The person in person at region1 is kicking a ball."}
+{"image": "0008.jpg", "instruction": "What is this person's occupation in <Region><L651><L177><L805><L939></Region>?", "output": "The person in person at region1 is kicking a ball."}
+{"image": "0009.jpg", "instruction": "Identify the object in <Region><L624><L53><L832><L934></Region>.", "output": "The object in cellphone at region1 is a smartphone."}
+{"image": "0009.jpg", "instruction": "There are how many phones in the image?", "output": "There are three phones in the image."}
+{"image": "0009.jpg", "instruction": "Compare phones in <Region><L624><L53><L832><L934></Region>, <Region><L402><L57><L612><L889></Region>, and <Region><L125><L42><L397><L932></Region>, which one might be the most expensive?", "output": "cellphone at region2 might be the most expensive phone out of the three."}
+{"image": "0010.jpg", "instruction": "What kind of animals is in the <Region><L158><L116><L851><L930></Region>?", "output": "dog at region1 is a dog."}
+{"image": "0010.jpg", "instruction": "What is the dog doing?", "output": "dog at region1 is catching a frisbee in its mouth."}
+{"image": "0010.jpg", "instruction": "Who is playing the frisbee with the dog?", "output": "No one is playing the frisbee with the dog."}
+{"image": "0011.jpg", "instruction": "observe <Region><L444><L28><L644><L264></Region>, tell me the book's name with author Tony Park.", "output": "book at region1 is by Tony Park."}
+{"image": "0011.jpg", "instruction": "Compare the size of the book 'DARK HEART' in <Region><L444><L28><L644><L264></Region> with the book 'AGAINST ALL ENEMIES' in <Region><L471><L277><L599><L438></Region>, which one is bigger? To be specific, 'DARK HEART' is the book with a tree on its cover, and 'AGAINST ALL ENEMIES' is a book with red cover and locates exactly below 'DARK HEART' .", "output": "book at region1 is taller than book at region2."}
+{"image": "0012.jpg", "instruction": "What is the person in <Region><L305><L160><L562><L952></Region> doing?", "output": "The person in person at region1 is climbing a rock wall."}
+{"image": "0012.jpg", "instruction": "Determine whether the person is suffering from climbing? Does he meet some troubles?", "output": "The person in person at region1 is holding on and climbing the rock wall. He does not appear to be suffering from any apparent problems."}
+{"image": "0013.jpg", "instruction": "Identify the object in <Region><L215><L86><L862><L525></Region>.", "output": "fireworks in the sky"}
+{"image": "0013.jpg", "instruction": "compare with the building in <Region><L565><L711><L651><L840></Region> and the tower in <Region><L108><L317><L251><L944></Region>, which one is higher?", "output": "the building is taller"}
+{"image": "0014.jpg", "instruction": "What is in <Region><L328><L81><L697><L782></Region>?", "output": "There is no sand inside of sandcastle at region1."}
+{"image": "0014.jpg", "instruction": "Can you describe the weather according to <Region><L2><L2><L848><L306></Region>?", "output": "the sky is clear and blue"}
+{"image": "0014.jpg", "instruction": "What is the relationship between <Region><L90><L580><L338><L748></Region> and the object in <Region><L328><L81><L697><L782></Region>?", "output": "the shadow of the sand castle"}
+{"image": "0015.jpg", "instruction": "What is the man in <Region><L315><L179><L470><L668></Region> doing?", "output": "person at region1 is about to taste something"}
+{"image": "0015.jpg", "instruction": "Is the man in <Region><L628><L56><L828><L674></Region> wearing a hat?", "output": "No, person at region2 is not wearing a hat."}
+{"image": "0015.jpg", "instruction": "What is the positional relationship between the plates in <Region><L527><L652><L698><L872></Region> and the pots in <Region><L542><L504><L751><L676></Region>?", "output": "The plates in bowl at region3 are on top of the pots in bowl at region4"}
+{"image": "0016.jpg", "instruction": "Describe the objects in <Region><L194><L406><L465><L967></Region>.", "output": "the chair on the left"}
+{"image": "0016.jpg", "instruction": "What is the color of the object in <Region><L1><L0><L188><L269></Region>? And what is it?", "output": "the tail of the plane is red and orange"}
+{"image": "0016.jpg", "instruction": "Can the man in <Region><L391><L246><L592><L667></Region> see the airplane in <Region><L391><L246><L592><L667></Region>? Why?", "output": "the man in the chair can see the airplane through the window"}
+{"image": "0017.jpg", "instruction": "Describe the objects around the object in <Region><L190><L81><L524><L885></Region>.", "output": "a red bag with a white circle on it"}
+{"image": "0017.jpg", "instruction": "What is the shape of the object in <Region><L467><L71><L741><L586></Region>?", "output": "a gray travel pillow"}
+{"image": "0017.jpg", "instruction": "What is the relationship between the object in <Region><L190><L81><L524><L885></Region> and the object in <Region><L77><L5><L848><L977></Region>?", "output": "a red bag and a gray travel pillow"}
+{"image": "0018.jpg", "instruction": "What is the occupation of the people in <Region><L165><L7><L530><L976></Region>?", "output": "person at region1 is a professional soccer player."}
+{"image": "0018.jpg", "instruction": "In <Region><L164><L9><L848><L971></Region>, who is closest to the <Region><L741><L854><L845><L995></Region>?", "output": "person at region1 is closest to the sportsball at region3."}
+{"image": "0018.jpg", "instruction": "In <Region><L164><L9><L848><L971></Region>, how many people are wearing dark jerseys and how many are wearing white jerseys?", "output": "In the image, there are two people wearing dark jerseys and two people wearing white jerseys."}
+{"image": "0019.jpg", "instruction": "What venue are these group of people in the image on according to <Region><L5><L720><L848><L992></Region>?", "output": "They are on a beach."}
+{"image": "0019.jpg", "instruction": "What is the purpose of the yellow ribbon-like object in <Region><L2><L2><L847><L786></Region>?", "output": "A volleyball net."}
+{"image": "0019.jpg", "instruction": "Is there anyone taller than the object in <Region><L295><L109><L380><L216></Region>?", "output": "Yes, there is a man taller than the volleyball net in the image."}
+{"image": "0020.jpg", "instruction": "What is written in the <Region><L672><L789><L848><L888></Region>?", "output": "The olympic symbol is written in the toothbrush at region1."}
+{"image": "0020.jpg", "instruction": "What is the woman in <Region><L245><L66><L791><L960></Region> doing?", "output": "The woman in toothbrush at region1 is a gymnast and she is doing a routine."}
+{"image": "0020.jpg", "instruction": "What is the relationship between the woman in <Region><L245><L66><L791><L960></Region> and the object in <Region><L2><L731><L845><L932></Region>?", "output": "The woman in toothbrush at region1 is standing on a balance beam and she is using it to do a routine."}
+{"image": "0021.jpg", "instruction": "What are the animals in <Region><L112><L92><L348><L807></Region>?", "output": "The animals in dog at region1 are rodents."}
+{"image": "0021.jpg", "instruction": "What are the living habits of the animals in <Region><L112><L92><L348><L807></Region>\uff1f", "output": "The animals in dog at region1 are rodents. They are small mammals with long tails. They are herbivores and mostly nocturnal."}
+{"image": "0021.jpg", "instruction": "What colour are the animals in  <Region><L112><L92><L348><L807></Region>\uff1f", "output": "The animals in dog at region1 are brown."}
+{"image": "0021.jpg", "instruction": "How many meerkats are there in the picture?", "output": "There are four meerkats in the picture."}
+{"image": "0022.jpg", "instruction": "What object is it in <Region><L465><L169><L652><L497></Region>?", "output": "It is a large stick."}
+{"image": "0022.jpg", "instruction": "What function does the thing at <Region><L465><L169><L652><L497></Region> have?", "output": "It is a large stick that the elephant is putting in its mouth."}
+{"image": "0022.jpg", "instruction": "Please write a poem about something at <Region><L232><L304><L905><L953></Region>.", "output": "a large elephant with its mouth open"}
+{"image": "0023.jpg", "instruction": "What is the man in the <Region><L428><L436><L902><L998></Region> doing?", "output": "The man in the guitar at region1 is playing the guitar"}
+{"image": "0023.jpg", "instruction": "What is the relationship between the people in <Region><L428><L436><L902><L998></Region> and <Region><L115><L69><L495><L716></Region>?", "output": "The man in the guitar at region1 is teaching the boy how to play the guitar"}
+{"image": "0024.jpg", "instruction": "Please describe <Region><L40><L94><L505><L755></Region> in detail.", "output": "the american flag"}
+{"image": "0024.jpg", "instruction": "How many flags are there in <Region><L10><L26><L967><L982></Region>?", "output": "two flags on a pole"}
+{"image": "0024.jpg", "instruction": "What colors does it have at <Region><L537><L309><L929><L879></Region>?", "output": "a red white and blue flag"}
+{"image": "0025.jpg", "instruction": "What is it in <Region><L629><L154><L669><L209></Region>", "output": "3 is dunking the ball"}
+{"image": "0025.jpg", "instruction": "Please describe the rules of the game in the picture", "output": "3 is jumping and the ball is falling through the net"}
+{"image": "0026.jpg", "instruction": "What is the current posture of the person at <Region><L412><L131><L564><L799></Region>", "output": "2nd place"}
+{"image": "0026.jpg", "instruction": "Please describe in detail what is happening in the image", "output": "2nd place is standing on the podium"}
+{"image": "0026.jpg", "instruction": "The man in <Region><L748><L192><L880><L855></Region> and the man in <Region><L412><L131><L564><L799></Region> who is the champion", "output": "the man in 2nd place is wearing a blue jacket"}
+{"image": "0027.jpg", "instruction": "What is the material at <Region><L658><L260><L870><L600></Region>?", "output": "5th of a feather"}
+{"image": "0027.jpg", "instruction": "What is she doing at <Region><L141><L118><L870><L998></Region>?", "output": "5th of a feather"}
+{"image": "0027.jpg", "instruction": "Judging by <Region><L141><L118><L870><L998></Region>'s outfit, what kind of dance is she dancing?", "output": "She is a dancer in a Mardi Gras parade."}
+{"image": "0028.jpg", "instruction": "Please describe <Region><L364><L203><L828><L876></Region> in detail.", "output": "a jockey riding a horse"}
+{"image": "0028.jpg", "instruction": "Does <Region><L364><L203><L828><L876></Region> have a good chance of winning?", "output": "yes, he has a good chance"}
+{"image": "0028.jpg", "instruction": "What's the difference between horses at <Region><L364><L203><L828><L876></Region> and <Region><L1><L291><L240><L783></Region>?", "output": "a brown horse running"}
+{"image": "0029.jpg", "instruction": "What's the thing at <Region><L455><L44><L922><L537></Region>", "output": "the bird is flying"}
+{"image": "0029.jpg", "instruction": "What's the thing at <Region><L455><L44><L922><L537></Region><Region><L55><L20><L434><L511></Region>", "output": "the bird has two wings"}
+{"image": "0030.jpg", "instruction": "What's the thing at <Region><L805><L111><L971><L326></Region>?", "output": "pineapple at region1 is a pineapple."}
+{"image": "0030.jpg", "instruction": "What's the thing at <Region><L180><L214><L427><L506></Region>?", "output": "watermelon at region1 is a watermelon."}
+{"image": "0030.jpg", "instruction": "Please describe how the fruits of <Region><L40><L734><L170><L933></Region> contribute to human health", "output": "strawberries are rich in vitamins and minerals that contribute to human health. Some of these include vitamin C, manganese, folate, and potassium. \n\nVitamin C is an antioxidant that helps protect cells from damage caused by free radicals. It also supports the immune system, skin health, and the absorption of iron from plant-based foods. Manganese is essential for bone health and metabolism, while folate is crucial for cell division and prenatal development. Potassium helps maintain proper fluid balance, muscle function, and nerve signals.\n\nIncluding strawberries in a balanced diet can contribute to overall health and well-being by providing these essential nutrients."}
+{"image": "0031.jpg", "instruction": "What is at <Region><L520><L366><L694><L653></Region>? Please describe in detail", "output": "a ripe red strawberry"}
+{"image": "0031.jpg", "instruction": "What is the strawberry container at <Region><L424><L57><L995><L873></Region> made of", "output": "a wicker basket"}
+{"image": "0032.jpg", "instruction": "What language is in <Region><L847><L304><L977><L600></Region>", "output": "1 is in Arabic"}
+{"image": "0032.jpg", "instruction": "Please describe <Region><L18><L184><L895><L998></Region> in detail", "output": "a large gun on top of a vehicle"}
+{"image": "0033.jpg", "instruction": "What color are objects at <Region><L245><L106><L490><L406></Region>?", "output": "The objects at region1 are pink."}
+{"image": "0033.jpg", "instruction": "We define the combination of <Region><L535><L158><L841><L472></Region>  as 1 unit of flowers, please ask how many units of flowers there are in the figure", "output": "There are two units of flowers in the figure."}
+{"image": "0033.jpg", "instruction": "How many big flowers are there in the <Region><L535><L158><L841><L472></Region>", "output": "There are two big flowers in the region2."}
+{"image": "0034.jpg", "instruction": "What is the animal on the <Region><L78><L204><L457><L953></Region>?", "output": "It is a zebra."}
+{"image": "0034.jpg", "instruction": "What is the animal on the <Region><L297><L75><L741><L711></Region>?", "output": "A tiger is the animal on the zebra."}
+{"image": "0034.jpg", "instruction": "How many animals are there in the picture?", "output": "There are two animals in the picture."}
+{"image": "0034.jpg", "instruction": "Would the two animals in the picture come together in the wild?", "output": "Yes, the two animals in the picture would come together in the wild."}
+{"image": "0035.jpg", "instruction": "What are the people at <Region><L578><L343><L785><L506></Region> doing", "output": "The people on bicycle at region1 are running"}
+{"image": "0035.jpg", "instruction": "What would happen if the person in <Region><L578><L343><L785><L506></Region> stopped cycling?", "output": "The other people would stop running"}
+{"image": "0035.jpg", "instruction": "What object is in <Region><L234><L371><L308><L448></Region>?", "output": "A street light is in trafficlight at region2"}
+{"image": "0035.jpg", "instruction": "How many street lights are there?", "output": "There are two street lights"}
+{"image": "0035.jpg", "instruction": "Which is the one on the left, <Region><L307><L433><L394><L624></Region> or <Region><L578><L343><L785><L506></Region>", "output": "trafficlight at region2 is on the left side"}
+{"image": "0036.jpg", "instruction": "What is the object at <Region><L245><L345><L392><L557></Region>\uff1f", "output": "There is a flower at sportsball at region1."}
+{"image": "0036.jpg", "instruction": "According to <Region><L245><L345><L392><L557></Region>, please tell me when the photo was taken, whether it was morning, noon, evening, or late at night. And tell me why", "output": "The flower is closed so it is either morning or evening."}
+{"image": "0036.jpg", "instruction": "What color is it in <Region><L632><L510><L684><L598></Region>?", "output": "There is a red center in the flower at region2."}
+{"image": "0037.jpg", "instruction": "Where is the man in <Region><L8><L251><L324><L636></Region> situated?", "output": "The man in chair at region1 is situated on a beach."}
+{"image": "0037.jpg", "instruction": "Where is the man in <Region><L8><L251><L324><L636></Region> and the woman in <Region><L711><L146><L998><L782></Region> doing?", "output": "The man in chair at region1 and the woman in chair at region2 are doing water aerobics."}
+{"image": "0037.jpg", "instruction": "What can we know from this flag in <Region><L192><L34><L361><L243></Region>?", "output": "The flag in chair at region3 is blue and white and it is flying on a pole."}
+{"image": "0038.jpg", "instruction": "What is on the side of the stage in <Region><L662><L530><L738><L610></Region>?", "output": "There are lights on the side of the stage in tv at region1."}
+{"image": "0038.jpg", "instruction": "What color is the person in <Region><L392><L790><L427><L850></Region> wearing?", "output": "The person in person at region2 is wearing a green shirt."}
+{"image": "0038.jpg", "instruction": "What would you feel if you live in <Region><L805><L475><L868><L535></Region>?", "output": "If you live in a city and you go to a concert in a place like this, you will likely see many people, lights, and possibly a stage."}
+{"image": "0039.jpg", "instruction": "What is <Region><L9><L607><L77><L760></Region>? What is the possible relationship between it and <Region><L132><L167><L625><L829></Region>?", "output": "book at region1 is a description of the painting."}
+{"image": "0039.jpg", "instruction": "Who is the author of the painting in <Region><L132><L167><L625><L829></Region>? Is it this man in <Region><L647><L215><L947><L973></Region>?", "output": "No, the painting is by someone else."}
+{"image": "0040.jpg", "instruction": "What is she wearing in <Region><L572><L171><L649><L218></Region>?", "output": "She is wearing goggles in her eyes."}
+{"image": "0040.jpg", "instruction": "Please determine the position of the sun from the shadow in <Region><L15><L512><L624><L833></Region> and explain why.", "output": "A shadow is on the snow from the skier."}
+{"image": "0041.jpg", "instruction": "What style of architecture is this building in <Region><L425><L478><L590><L715></Region>?", "output": "This building in region1 is in a Spanish style."}
+{"image": "0041.jpg", "instruction": "What is the name of this building in <Region><L422><L433><L617><L764></Region>?", "output": "This is a cathedral, the architecture is Spanish."}
+{"image": "0042.jpg", "instruction": "Are the man in <Region><L2><L205><L90><L683></Region> and the man in <Region><L537><L154><L922><L998></Region> going in the same direction?", "output": "No, the man in person at region1 is going to work and the man in person at region2 is going to school."}
+{"image": "0042.jpg", "instruction": "In what year was the dress worn by the man in <Region><L322><L229><L412><L690></Region> invented?", "output": "The man in person at region3 was wearing the plaid dress in 1993."}
+{"image": "0043.jpg", "instruction": "What is the animal in <Region><L675><L229><L868><L505></Region> and <Region><L439><L385><L579><L822></Region>? Which one of them is herbivorous?", "output": "sheep at region2 is herbivorous."}
+{"image": "0043.jpg", "instruction": "Why is <Region><L451><L378><L572><L815></Region> running away from <Region><L690><L248><L868><L503></Region>?", "output": "sheep at region2 is chasing sheep at region4."}
+{"image": "0044.jpg", "instruction": "What is it in <Region><L552><L156><L991><L568></Region>?", "output": "person at region1 has a camera in it."}
+{"image": "0044.jpg", "instruction": "From what the girl in <Region><L102><L263><L404><L974></Region> is wearing, determine which country this is.", "output": "person at region2 is an actress in a play."}
+{"image": "0044.jpg", "instruction": "Write a story that needs to include the girl in <Region><L102><L263><L404><L974></Region> and the jewelry in <Region><L221><L557><L278><L663></Region>.", "output": "the dress is green in color"}
+{"image": "0045.jpg", "instruction": "What are <Region><L478><L620><L817><L841></Region> and <Region><L61><L626><L417><L868></Region>?", "output": "orange chair at region1 and orange chair at region2 are bar stools."}
+{"image": "0045.jpg", "instruction": "What is the dish in <Region><L622><L151><L771><L387></Region>? Tell me the steps to make it.", "output": "a plate of food"}
+{"image": "0045.jpg", "instruction": "If I like shellfish, should I sit in the chair in <Region><L478><L620><L817><L841></Region> or the chair in <Region><L61><L626><L417><L868></Region>? Why?", "output": "If you like shellfish, you should sit in the chair in front of the plate of oysters."}
+{"image": "0046.jpg", "instruction": "What's so different about the mask in <Region><L832><L807><L850><L838></Region> this person wears from the others?", "output": "The mask is blue."}
+{"image": "0046.jpg", "instruction": "What are the man and the woman in <Region><L704><L807><L802><L904></Region> doing?", "output": "person at region2 is a woman and she is talking to person at region2 a man."}
+{"image": "0046.jpg", "instruction": "Is the man in <Region><L617><L439><L652><L566></Region> getting on or off the train? Why do you think so?", "output": "The man in person at region3 is getting on the train."}
+{"image": "0047.jpg", "instruction": "Please identify the object categories in <Region><L127><L102><L228><L275></Region>.", "output": "fins on the back of a scuba diver"}
+{"image": "0047.jpg", "instruction": "What is the color of the object in <Region><L141><L334><L175><L382></Region>?", "output": "The object in sportsball at region1 is orange."}
+{"image": "0048.jpg", "instruction": "What is written in <Region><L80><L302><L281><L419></Region>?", "output": "info is written in tv at region1."}
+{"image": "0048.jpg", "instruction": "What is the purpose of the object in <Region><L280><L104><L490><L761></Region>?", "output": "The object in pottedplant at region1 is to inform people which gate their flight is at."}
+{"image": "0048.jpg", "instruction": "What is the relationship between the cart in <Region><L788><L746><L827><L850></Region> and the man in <Region><L821><L662><L848><L866></Region>?", "output": "The man in person at region2 is pushing the cart in region1."}
+{"image": "0049.jpg", "instruction": "Do the cars in <Region><L405><L481><L788><L959></Region> have the same color?", "output": "No, the cars in car at region1 are different colors."}

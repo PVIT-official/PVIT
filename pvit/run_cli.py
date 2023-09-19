@@ -69,9 +69,9 @@ def send_one_message(query, image_path, region_style="token", worker_addr=None, 
     return output
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--query', default="<image>\nWhat is the animal in <Region><L600><L600><L900><L1000></Region>?")
-    parser.add_argument('--image_path', default="./images/example.jpg")
+    parser.add_argument("--query", default="<image>\nWhat is the animal in <Region><L600><L600><L900><L1000></Region>?")
+    parser.add_argument("--image_path", default="./images/example.jpg")
     args = parser.parse_args()
     print(send_one_message(args.query, args.image_path, worker_addr=os.getenv('MODEL_ADDR')))

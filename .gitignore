@@ -1,0 +1,29 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+
+# Log
+*.log
+*.log.*
+*.json
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+
+model_weights/*
+checkpoints
+ckpts*
+
+results/
+serve_images/
+
+data/*
+!data/summary.py

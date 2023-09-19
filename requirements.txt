@@ -16,3 +16,4 @@ streamlit-drawable-canvas
 streamlit-chat
 seaborn
 altair==4.2.2
+tqdm

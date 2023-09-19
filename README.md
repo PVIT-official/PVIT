@@ -18,6 +18,7 @@
 - [Demo](#Demo)
 - [Data](#Data)
 - [Train](#Train)
+- [Evaluation](#Evaluation)
 
 ## Install
 
@@ -93,7 +94,9 @@ MODEL_ADDR=http://0.0.0.0:40004 ./scripts/run_cli.sh
 
 ## Data
 
-You can download [stage1](https://huggingface.co/datasets/PVIT/pvit_data_stage1) and [stage2](https://huggingface.co/datasets/PVIT/pvit_data_stage2) training data on huggingface. You are required to download pictures of COCO2017 Train, SBU Captioned Photo, Visual Genome, GQA and Visual Commonsense Reasoning datasets as well.
+You can download [stage1](https://huggingface.co/datasets/PVIT/pvit_data_stage1) and [stage2](https://huggingface.co/datasets/PVIT/pvit_data_stage2) training data on huggingface. You are required to download pictures of [COCO2017 Train](https://cocodataset.org/), [SBU Captioned Photo](https://www.cs.rice.edu/~vo9/sbucaptions/), [Visual Genome](https://homes.cs.washington.edu/~ranjay/visualgenome/), [GQA](https://cs.stanford.edu/people/dorarad/gqa/) and [Visual Commonsense Reasoning](http://visualcommonsense.com/) datasets as well. Please put stage1 and stage2 data, and the downloaded pictures in folder `data` as follows. You can modify `image_paths` in `data/stage1/mapping.yaml` and `data/stage2/mapping.yaml` to change the path of downloaded pictures.
+
+<img src="assets/tree.jpg" width="50%" height="50%" />
 
 ## Train
 
@@ -121,6 +124,23 @@ export DATA_PATH="data/stage2"
 export OUTPUT_DIR="checkpoints/stage2_ckpt"
 export PORT=25001
 ./scripts/train_stage2.sh
+```
+
+## Evaluation
+
+We propose **FineEval** dataset for human evaluation. See folder `fine_eval` for the dataset and model outputs. The files in the folder are as follows.
+
+- `images`: Image files of **FineEval** dataset.
+- `instructions.jsonl`: Questions of **FineEval** dataset.
+- `pvit.jsonl`: The results of PVIT (ours) model.
+- `llava.jsonl`: The results of LLaVA model.
+- `shikra.jsonl`: The results of Shikra model.
+- `gpt4roi.jsonl`: The results of GPT4RoI model.
+
+To run PVIT on **FineEval** dataset, you can launch a web server and run the following command. The port of `MODEL_ADDR` should be consistant with `WORKER_PORT`.
+
+```Shell
+MODEL_ADDR=http://0.0.0.0:40004 ./scripts/run_fine_eval.sh
 ```
 
 ## Citation
